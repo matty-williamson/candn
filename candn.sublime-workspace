@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"course",
+				"courseTitle"
+			],
+			[
+				"cano",
+				"canoesPage"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"pos",
+				"postThumbSrc"
+			],
+			[
+				"post",
+				"postThumbID"
+			],
+			[
+				"se",
+				"secondaryImage"
+			],
+			[
+				"Testimon",
+				"Testimonials"
+			],
+			[
+				"query",
+				"queryCount"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"list-sty",
+				"list-style-position"
+			],
+			[
+				"sub",
+				"subTitle"
+			],
+			[
+				"page",
+				"pageTitle"
+			],
+			[
+				"get_the",
+				"get_the_id"
+			],
+			[
+				"i",
+				"inside"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
+			],
+			[
+				"get_the_",
+				"get_the_permalink"
+			],
+			[
+				"showtic",
+				"showTicketId"
+			],
+			[
+				"le",
+				"leShowDetails"
+			],
+			[
+				"re",
+				"relatedShow"
+			],
+			[
+				"memberN",
+				"memberName"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"download",
+				"downloadImgSrc"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"press",
+				"pressShot"
+			],
+			[
+				"thum",
+				"thumbSrc"
+			],
+			[
+				"leader",
+				"leaderCount"
+			],
+			[
+				"push",
+				"pushedName"
+			],
+			[
+				"mys",
+				"mysqli"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"son",
+				"secondaryFont"
+			],
+			[
+				"guessId",
+				"guessIDVal"
+			],
+			[
+				"guess",
+				"guessFormat"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font",
+				"fontColour"
+			],
+			[
+				"primar",
+				"primaryColour"
+			],
+			[
+				"get_template",
+				"get_template_directory"
+			],
+			[
+				"show",
+				"show_location_terms"
+			],
+			[
+				"inlin-",
+				"inline-block"
+			],
+			[
+				"border",
+				"borderRadius"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"mapShow",
+				"mapShowPage"
+			],
+			[
+				"a",
+				"addressRegion"
+			],
+			[
+				"address",
+				"addressLocality"
+			],
+			[
+				"mw",
+				"mw_myoption_group"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"b",
+				"businessType"
+			],
+			[
+				"opening",
+				"openingOption"
+			],
+			[
+				"op",
+				"openingTimesFormat"
+			],
+			[
+				"s",
+				"secondaryColor"
+			],
+			[
+				"prim",
+				"primaryColor"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wp ",
+				"Snippet: WP Query"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"funciton",
+				"Snippet: Function"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"wpq",
+				"Snippet: WP Query"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"gisst",
+				"Gist: Insert Gist"
+			],
+			[
+				"mixin",
+				"Snippet: = Shortcut to @mixin"
+			],
+			[
+				"thum",
+				"Snippet: Post Thumbs"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 572.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/MattWilliamson/Desktop/httpdocs/candn"
+	],
+	"file_history":
+	[
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/table.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_modules.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/page-banner.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/page-accom.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/page-two-cols.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/page-canoes.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/page-contact.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/secondary-image.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/lower-content.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_global.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/plugins/canoes/canoes.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-config.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/sftp-config.json",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/robots.txt",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/canoes.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/page-templates/_canoes.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/js/scripts.js",
+		"/Users/MattWilliamson/Desktop/Web Design/Matt Williamson/2014 - Oct Onwards/sftp-config.json",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/plugins/theme-extras/theme-extras.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_forms.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/style.css.map",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/page-templates/_default-content.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_layout.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/front-page.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/modules/testimonials.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_testimonials.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_buttons.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_page-banner.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/404.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/page-templates/_accom.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/packages/flaticon/_flaticon.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/searchform.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_variables.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_animations.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_mixins.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_mw-business-details.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/style.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_navigation.scss",
+		"/Users/MattWilliamson/Downloads/MyIcons (1)/flaticon.css",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_typography.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_not-found.scss",
+		"/Users/MattWilliamson/Downloads/MyIcons/flaticon.css",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page-templates/page-accon.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/_grid.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/content-page.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/header.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_header.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/footer.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/functions.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/js/libraries.js",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/page.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/scss/modules/_footer.scss",
+		"/Users/MattWilliamson/Desktop/httpdocs/PinkFox/Development/wp-content/themes/pinkfox/inc/theme-setup.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/PinkFox/Development/wp-content/themes/pinkfox/functions.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/birch-canoes/wp-content/themes/birch-canoes/inc/extras.php",
+		"/Users/MattWilliamson/Desktop/httpdocs/PinkFox/Development/wp-content/themes/pinkfox/inc/theme-extras.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_shop.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/style.css",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_content.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/scripts.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/scripts.min.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/archive-shows.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/shows.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/shows.min.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/show-popup.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/shows.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/gingerbread-results.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-config.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-success.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_shows.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_variables.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-booking.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_home-content.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/content-shows.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/cpt.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/header.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/plugins/last-edition-bespoke-settings/last-edition-bespoke-settings.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_header.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_navigation.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-sign-up.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/content-post.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/content-single.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/autoload.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_loading.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/functions.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/login.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_animations.scss",
+		"/Users/MattWilliamson/Dropbox/mamp-plugin-dev/crearea-v2/wp-content/themes/crearea/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/js/js-gingerbread.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/show-popup.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/babysdayout.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/sftp-config.json",
+		"/Users/MattWilliamson/Downloads/mw-business-details-master/mw-business-details.php",
+		"/Users/MattWilliamson/Downloads/mw-business-details-master/mw-business-details-shortcodes.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_mixins.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_video.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_blog.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/search.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/archive.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/searchform.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/inc/blog-search.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/index.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/single.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_forms.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/style.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/.htaccess",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/content-page.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_typography.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_footer.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_press.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_modules.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-press.php",
+		"/var/folders/2m/tcldb0056m5gnxx51xcwg06c0000gn/T/sublime-sftp-browse-1419121808/mapped/httpdocs/last-edition-pass-it-down.zip",
+		"/Users/MattWilliamson/Dropbox/mamp-plugin-dev/crearea-v2/wp-content/themes/crearea/functions.php",
+		"/Users/MattWilliamson/Dropbox/mamp-plugin-dev/crearea-v2/wp-content/themes/crearea/inc/ajax-login.php",
+		"/Users/MattWilliamson/Dropbox/mamp-plugin-dev/crearea-v2/wp-content/themes/crearea/js/scripts.js",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/last-edition-pass-it-down.zip",
+		"/Users/MattWilliamson/Desktop/Web Design/Last Edition/wp-content/themes/Starkers/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/Last Edition Site 2014/Backup/wp-content/themes/LastEdition/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/Last Edition/wp-content/themes/LastEdition/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/LastEdition/page-home.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/page-templates/page-gingerbread-man.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/modules/_gingerbread-man.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/send-your-score.php",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss/_global.scss",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/images/last-edition-logo.svg",
+		"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/woocommerce/content-single-product.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/last-edition/wp-content/themes/last-edition/scss",
+			"/Users/MattWilliamson/Desktop/Web Design/Matt Williamson/2014 - Oct Onwards/wp-content/themes/matty-williamson/scss",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/inspiration-flooring/wp-content/themes/inspiration-flooring",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/inspiration-flooring/wp-content/uploads/2014/08",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/inspiration-flooring/wp-content/plugins",
+			"/Users/MattWilliamson/Desktop/Web Design/mamp-projects/inspiration-flooring/wp-content/themes/inspiration-flooring/js/min"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"courseTitle",
+			"course_table",
+			"repeater_field_name",
+			"accomodation",
+			"canoes",
+			"pinkfox",
+			"Pinkfox",
+			"pinkfox",
+			"Pinkfox",
+			"secondaryImage",
+			";\n",
+			"p>",
+			"p",
+			"length",
+			"Care Home",
+			"Care Homes",
+			"care_homes",
+			"Care Homes",
+			"div",
+			"large",
+			"X(",
+			"creare-boilerplate",
+			"creare_boilerplate_styles_scripts",
+			"creare_boilerplate_html5shiv",
+			"attr",
+			"nav",
+			"boo",
+			"back",
+			"go back",
+			"contact",
+			"getcwd().",
+			"#ef8b43",
+			"ul",
+			"append",
+			"scripts.js",
+			"scripts",
+			"8B48D3",
+			"6c61d3",
+			"data",
+			"var",
+			"6",
+			"$",
+			"6",
+			"paged",
+			" {",
+			"-1",
+			"asc",
+			"6",
+			"var_d",
+			"var_di",
+			"console",
+			"jQuery",
+			"\"",
+			"query_data",
+			"location",
+			"show_location_filter",
+			"ajax_show_popup_params",
+			"show_location_filter",
+			"guesses",
+			"scripts",
+			"show_location_filter",
+			"');\n",
+			"show_location_filter",
+			"popupData",
+			"show_location_",
+			"show_location_get_post",
+			"show_location_get_posts",
+			"popupdata",
+			"data",
+			"enqueueu",
+			"ajax_url",
+			"wp_ajax_show_location_filter",
+			"query_data",
+			"show_location_get_posts()",
+			"show-location-ajax-js",
+			"			animation: fadeInLeft 1s ease 1s 1 forwards;\n",
+			"slider",
+			"video height",
+			"public",
+			"add_action",
+			"add_acrt",
+			"mw_business_details",
+			"leVenue",
+			"global",
+			"autoAddTax",
+			"leSendShow",
+			"_shows",
+			"10",
+			"send_emails_on_new_event",
+			"postID",
+			", 10",
+			"title",
+			"poster",
+			"venue",
+			"ticket",
+			"post",
+			"feat",
+			"img",
+			"featured",
+			"li",
+			"p",
+			"	\n	<div class=\"wrap\">\n		\n		<div class=\"column-third\"><?php get_search_form(); ?> </div>\n		<div class=\"column-third\"></div>\n		<div class=\"column-third\"></div>\n\n	</div>\n",
+			"blog",
+			"newsthumbnail",
+			"preventDeafult",
+			"console",
+			"span.wpcf7-list-item",
+			"250",
+			"repeater_field_name",
+			"video",
+			".videos",
+			"255",
+			"#newyork",
+			"ajax",
+			"header",
+			"mobile",
+			"likes",
+			"add_image",
+			"[COMPANY URL]",
+			"alternate",
+			"score",
+			"event",
+			"rules",
+			"vide",
+			"warning",
+			"message",
+			"mesage",
+			"display"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"A54FEE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "candn.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"navig",
+				"wp-content/themes/birch-canoes/scss/modules/_navigation.scss"
+			],
+			[
+				"header",
+				"wp-content/themes/birch-canoes/header.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Web Design/inspiration-flooring/inspi-flooring.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
