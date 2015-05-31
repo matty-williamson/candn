@@ -1,0 +1,77 @@
+::selection {
+
+  background: $primaryColour;
+  color: white;
+  text-shadow: none;
+
+}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  
+  border: 0;
+  font-family: inherit;
+  font-size: 100%;
+  font-style: inherit;
+  font-weight: 600;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  vertical-align: baseline;
+
+}
+
+* {
+
+  transition: all ease-in-out 0.25s;
+
+}
+
+*, *:before, *:after {
+
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  
+}
+
+html {
+
+  height: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+
+}
+
+body {
+
+  height: 100%;
+  font-family: $bodyFont;
+  color: $fontColour;
+  background: $backgroundColour;
+  transition: all ease-in-out 0.2s;
+  font-size: 14px;
+  animation: fadeIn 250ms ease-in-out forwards;
+
+}
+
+img {
+
+  display: block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+
+}
+
+img[src$=".svg"] {
+
+  max-width: auto;
+  width: 100%;
+
+}

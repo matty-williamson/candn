@@ -1,0 +1,144 @@
+// Theme Based styles
+
+// main wrapper
+.wrapper {
+
+	@include row;
+	width: 95%;
+	margin: 0 auto;
+
+}
+
+// main wrapper
+.news-wrapper {
+
+	max-width: 900px;
+	width: 95%;
+	margin: 0 auto;
+
+}
+
+// clearings
+header, section, footer, .full {
+
+	@include clear();
+
+}
+
+// section padding
+section {
+
+	&.content {
+		
+		padding: $gridGutter 0;
+
+	}
+
+	&.grey {
+		
+		padding: $gridGutter 0;
+		background: #ebebeb;
+
+	}
+
+
+}
+
+.customBG {
+
+	background-size: cover;
+	background-repeat: no-repeat; 
+	background-position: center;
+
+}
+
+// layout helpers
+.sidebar, .third {
+
+	@include col( 12, false );
+
+	@include bp($tablet) {
+
+		@include col(6, false);
+
+	}
+
+	@include bp($desktop) {
+
+		@include col(4, false);
+
+	}
+
+}
+
+// layout helpers
+.quarter {
+
+	@include col( 12, false );
+
+	@include bp($tablet) {
+
+		@include col(6, false);
+
+	}
+
+	@include bp($desktop) {
+
+		@include col(3, false);
+
+	}
+
+}
+
+.half {
+
+	@include col( 12, false );
+
+	@include bp($desktop) {
+
+		@include col(6, false);
+
+	}
+
+}
+
+.two-thirds {
+
+	@include col( 12, false );
+
+	@include bp($tablet) {
+
+		@include col(6, false);
+
+	}
+
+	@include bp($desktop) {
+
+		@include col(8, false);
+		padding: 0 1.5% 0 0;
+
+	}
+
+}
+
+.right {
+
+	@include bp($tablet) {
+
+		float: right;
+		padding: 0 0 0 $gridGutter;
+
+	}
+
+}
+
+.left {
+
+	@include bp($tablet) {
+
+		float: left;
+		padding: 0 $gridGutter 0 0;
+
+	}
+
+}

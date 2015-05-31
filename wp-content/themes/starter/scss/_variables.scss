@@ -1,0 +1,48 @@
+/*
+
+Typography
+
+*/
+
+$titleFont: 'Slabo 27px', serif;
+$bodyFont: 'Lato', sans-serif;
+
+/* 
+
+Font Sizes 
+
+*/
+
+$titleSize: 2em;
+$bodySize: 1.35em;
+
+/* 
+
+Colours 
+
+*/
+
+$primaryColour: #f0042a;
+$secondaryColour: #333333;
+$fontColour: #545454;
+$backgroundColour: #f6f6f6;
+
+/* 
+
+Grid System 
+
+*/
+
+$gridColumns: 12;
+$gridColumnWidth: 80px;
+$gridGutter: 24px;
+$gridMaxWidth: auto;
+
+// Structure
+$websitewidth: 1200px;
+
+// Media Queries
+$desktopWide: 1200;
+$desktop: 980;
+$tablet: 768;
+$phone: 420;
